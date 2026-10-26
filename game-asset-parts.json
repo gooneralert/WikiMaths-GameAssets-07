@@ -1,1 +1,32 @@
-{}
+{
+  "local-games/black-hole-fishing/index.pck": {
+    "size": 115777908,
+    "parts": [
+      {
+        "path": "local-games/black-hole-fishing/index.pck.part001",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/black-hole-fishing/index.pck.part002",
+        "size": 25777908
+      }
+    ]
+  },
+  "local-games/carmageddon/carmaweb.data": {
+    "size": 198408015,
+    "parts": [
+      {
+        "path": "local-games/carmageddon/carmaweb.data.part001",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/carmageddon/carmaweb.data.part002",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/carmageddon/carmaweb.data.part003",
+        "size": 18408015
+      }
+    ]
+  }
+}
