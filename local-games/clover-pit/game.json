@@ -1,0 +1,86 @@
+{
+  "slug": "clover-pit",
+  "title": "Clover Pit",
+  "type": "HTML",
+  "developer": "Panik Arcade",
+  "description": "CloverPit is the demonic lovechild of Balatro and Buckshot Roulette, a rogue-lite that traps players in a hell of their own creation. Locked in a rusty cell with a slot machine and an ATM, you must pay off your debt at the end of each round, or fall to ruin â literally! Manipulate the slot machine to earn extra coins. Turn the odds in your favor with various prizes and charms that trigger big big combos, snowballing into a dazzling lucky run. Bend the rules, break the game, and pay off your captor long enough to earn a shot at freedom. Features: A gripping rogue-lite where every round could be your last! Meta-progression, seeded runs, unlockable run modifiers and power-ups! Push your score to new heights in Endless Mode! A hellish escape room atmosphere! 150 + items and synergies to boost your luck! A sinister tale of addiction and escape! P.S. IS THIS GAMBLING? Hell no! CloverPit is a rogue-lite horror game, and not a slot machine simulator. Our slot machine is designed to be broken and ultimately overcome, and will never ask you for real money!",
+  "tags": [
+    "Card Game",
+    "Roguelite",
+    "Strategy",
+    "Dark",
+    "Horror",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "f7d480ca-dc00-42ac-b240-a5e5858712b8",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/index.html",
+  "status": "done",
+  "sizeBytes": 91674899,
+  "assetCount": 30,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/Build/CloverPit.data",
+    "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/Build/CloverPit.wasm",
+    "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/CloverPit.wasm",
+    "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/CloverPit.data",
+    "https://playobsidian.com/CloverPit.framework.js",
+    "https://playobsidian.com/CloverPit.loader.js",
+    "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/Build/CloverPit.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/Build/CloverPit.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/Build/CloverPit.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/Build/CloverPit.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/CloverPit.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/CloverPit.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/CloverPit.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/CloverPit.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/CloverPit.framework.js",
+      "error": "HTTP 404 for https://playobsidian.com/CloverPit.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/CloverPit.loader.js",
+      "error": "HTTP 404 for https://playobsidian.com/CloverPit.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/Build/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/f7d480ca-dc00-42ac-b240-a5e5858712b8/1/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:22:16.544Z",
+  "verifiedAt": "2026-10-26T11:22:42.875Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "",
+    "crossOriginIsolated": null,
+    "sharedArrayBuffer": "",
+    "canvas": null,
+    "nonBlack": null
+  }
+}
